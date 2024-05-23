@@ -40,6 +40,3 @@ Feel free to fork this and customize for your needs. This container is great to 
   ```
   $ make interactive
   ```
-
-## Have fun!
-Gauntlt makes security testing fun and we hope you enjoy using it! This repo is used in many of the DevOps and Security courses on Lynda.com filmed by Ernest Mueller, Karthik Gaekwad, Peco Karayanev and James Wickett. Check out the best [devops classes](https://www.lynda.com/SharedPlaylist/ccf29d5fa587472c95573529a0a94363) around.
