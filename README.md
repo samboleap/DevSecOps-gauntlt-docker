@@ -14,7 +14,7 @@ Feel free to fork this and customize for your needs. This container is great to 
 
 1. Clone this repo
   ```
-  git clone https://github.com/gauntlt/gauntlt-docker.git
+  git clone https://github.com/samboleap/DevSecOps-gauntlt-docker.git
   ```
 
 2. Build the docker container
